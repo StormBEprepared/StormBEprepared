@@ -5,7 +5,6 @@ My interests are usually found in:
 - Career development,
 - Finance, Investments, Cost Control,
 - Sports, leisure, gaming,
-- Games <3.
 - Travelling.  
 
 - 💞️ I’m looking to collaborate on any Software related projects from which I can either be teached or to teach myself.
