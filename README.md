@@ -1,6 +1,6 @@
   Hi! I am Stefan. I am a student at University of Bolton for the Software Engineering course.
 My interests are usually found in: 
-- Software integration in society and peronal lives, 
+- Software integration in society and personal lives, 
 - Learning modern ways to create and integrate ideas through software development,
 - Career development,
 - Finance, Investments, Cost Control,
