@@ -8,8 +8,9 @@ My interests are usually found in:
 - Travelling.  
 
 - 💞️ I’m looking to collaborate on any Software related projects from which I can either be teached or to teach myself.
-- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/spinteacatorul/
-                       Personal website: http://leonidstefanelpintea.freecluster.eu/
+- 📫 How to reach me: 
+- LinkedIn: https://www.linkedin.com/in/spinteacatorul/
+- Personal website: http://leonidstefanelpintea.freecluster.eu/
 
 <!---
 StormBEprepared/StormBEprepared is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
