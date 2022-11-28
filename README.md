@@ -13,11 +13,12 @@
 
 - 💬 Ask me about **C#, Xaml and MS SQL.**
 
-- 📫 How to reach me **stefanpintea33@gmail.com**
+- 📫 How to reach me **stefanpintea33@gmail.com** - Personal website: **http://leonidstefanelpintea.freecluster.eu/** /  **http://leonidstefanpintea.atwebpages.com/index.html**
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bP7idbh_bun2eSpIM-XHsdA4tlz2WrtF/view](https://drive.google.com/file/d/1bP7idbh_bun2eSpIM-XHsdA4tlz2WrtF/view)
 
-- ⚡ Fun fact **I can sleep 3 hours and work on my learning plan for 10 hours but cannot sleep 10 hours and listen to nonsense for mor than 3 minutes.**
+- ⚡ Fun fact: **I can sleep 3 hours and work on my learning plan for 10 hours but cannot sleep 10 hours and listen to nonsense for more than 3 minutes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,7 +34,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stormbeprepared&" alt="stormbeprepared" /></p>
 
-- Personal website: http://leonidstefanelpintea.freecluster.eu/       /        http://leonidstefanpintea.atwebpages.com/index.html
 
 <!---
 StormBEprepared/StormBEprepared is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
