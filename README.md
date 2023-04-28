@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonid Stefanel Pintea</h1>
-<h3 align="center">A passionate software engineering student who started the tech journey 2 years ago!</h3>
+<h3 align="center">A passionate software engineering student who started the tech journey in January 2021!</h3>
 
 - 🔭 I’m currently working on **my personal portfolio and automation projects at my current job.**
 
