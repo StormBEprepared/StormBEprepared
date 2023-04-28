@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my personal portfolio and automation projects at my current job.**
 
-- 🌱 I’m currently learning and acting like a sponge with **anything software related. **
+- 🌱 I’m currently learning **anything software related. **
 
 - 👯 I’m looking to collaborate on **any software-related project.**
 
