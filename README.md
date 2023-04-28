@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leonid Stefanel Pintea</h1>
 <h3 align="center">A passionate software engineering student who started the tech journey 2 years ago!</h3>
 
-- 🔭 I’m currently working on **University related assignments and personal portfolio projects.**
+- 🔭 I’m currently working on **my personal portfolio and automation projects at my current job.**
 
-- 🌱 I’m currently learning **Javascript frameworks and frontend UX/UI's.**
+- 🌱 I’m currently learning and acting like a sponge with **anything software related. **
 
 - 👯 I’m looking to collaborate on **any software-related project.**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/StormBEprepared](https://github.com/StormBEprepared)
 
-- 💬 Ask me about **C#, Xaml and MS SQL.**
+- 💬 Ask me about **C#, Python, VBA, Javascript, HTML5, CSS, Xaml and MS SQL.**
 
 - 📫 How to reach me **stefanpintea33@gmail.com** - Personal website: **http://leonidstefanelpintea.freecluster.eu/** /  **http://leonidstefanpintea.atwebpages.com/index.html**
 
